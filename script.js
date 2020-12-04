@@ -1,4 +1,4 @@
-const API_URL = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=ad648a1e4decf26c3d2bf1839943f7f3&page=1'
+const API_URL = 'https://api.themoviedb.org/3/discover/movie?certification_country=US&certification=R&sort_by=revenue.desc&with_cast=3896&api_key=ad648a1e4decf26c3d2bf1839943f7f3&page=1'
 const IMG_PATH = 'https://image.tmdb.org/t/p/w1280'
 const SEARCH_API = 'https://api.themoviedb.org/3/search/movie?api_key=ad648a1e4decf26c3d2bf1839943f7f3&query="'
 
